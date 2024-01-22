@@ -1,0 +1,11 @@
+Task2.Explain the difference between Absolute and Relative positioning?
+sol  :Following are the difference between absolute and relative positioning
+                  Absolute 			 Relative
+      Defines the position of a bounding      Positions an element relative to its default positions
+      box from the top and left margins of    on the page.The element creates its own coordinate axes,
+      the web page. This allows objects to    at a location offset  from the viewport axis.it is part of
+      be placed in an exact location, and     document flow but shifted.
+      also one on top of another.Absolute 
+      positioning is relative to the first 
+      relatively (or absolutely) positioned  
+      parent element.
